@@ -21,9 +21,6 @@ This Warehouse follows the Medallion-Architecture
 
 
 
-For naming conventions within the layers, please refer to docs/naming conventions.
-
-
 
 
 
