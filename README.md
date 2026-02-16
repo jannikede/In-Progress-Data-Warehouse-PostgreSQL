@@ -1,7 +1,11 @@
 # Data Warehouse – Portfolio Project
 
 ### Architecture:
-This Warehouse follows the Medallion-Architecture (INSERT piture here)
+This Warehouse follows the Medallion-Architecture
+
+![Warehouse - High level architecture](https://github.com/user-attachments/assets/ee156b4a-1eca-45bd-99e4-68308d183206)
+
+
 
 
 For naming conventions within the layers, please refer to docs/naming conventions.
