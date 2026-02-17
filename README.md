@@ -14,6 +14,7 @@ The basic requirements that are going into this project are:
 
 ### Architecture:
 This Warehouse follows the Medallion-Architecture
+Creation of basic Warehouse structure and the Bronze Layer are completed. View scripts.
 
 
 ![Warehouse - High level architecture-2](https://github.com/user-attachments/assets/7cc2e525-e908-4f46-aeb5-5210b8f82e71)
